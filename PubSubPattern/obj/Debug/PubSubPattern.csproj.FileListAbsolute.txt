@@ -1,0 +1,9 @@
+c:\users\how_t\source\repos\PubSubPattern\PubSubPattern\bin\Debug\PubSubPattern.exe.config
+c:\users\how_t\source\repos\PubSubPattern\PubSubPattern\bin\Debug\PubSubPattern.exe
+c:\users\how_t\source\repos\PubSubPattern\PubSubPattern\bin\Debug\PubSubPattern.pdb
+c:\users\how_t\source\repos\PubSubPattern\PubSubPattern\bin\Debug\Newtonsoft.Json.dll
+c:\users\how_t\source\repos\PubSubPattern\PubSubPattern\bin\Debug\Newtonsoft.Json.xml
+c:\users\how_t\source\repos\PubSubPattern\PubSubPattern\obj\Debug\PubSubPattern.csprojResolveAssemblyReference.cache
+c:\users\how_t\source\repos\PubSubPattern\PubSubPattern\obj\Debug\PubSubPattern.csproj.CoreCompileInputs.cache
+c:\users\how_t\source\repos\PubSubPattern\PubSubPattern\obj\Debug\PubSubPattern.exe
+c:\users\how_t\source\repos\PubSubPattern\PubSubPattern\obj\Debug\PubSubPattern.pdb
